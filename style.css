@@ -4,7 +4,7 @@
 }
 .main{
     width: 100%;
-    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(fondo.jpg),no-repeat;
+    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(images/fondo.jpg),no-repeat;
     background-position: center;
     background-size: cover;
     height: 109vh;
@@ -236,7 +236,7 @@ ul li a:hover{
 
 .main_2{
     width: 100%;
-    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(machu.jpg),no-repeat;
+    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(images/machu.jpg),no-repeat;
     background-position: center;
     background-size: cover;
     height: 109vh;
@@ -370,7 +370,7 @@ background-color: #f5f5dc ;
 }
 .main_3{
     width: 100%;
-    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(subida.jpg),no-repeat;
+    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(images/subida.jpg),no-repeat;
     background-position: center;
     background-size: cover;
     height: 109vh;
