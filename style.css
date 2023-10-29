@@ -240,12 +240,7 @@ ul li a:hover{
     background-position: center;
     background-size: cover;
     height: 109vh;
-    transition: background 0.5s linear;
 }
-
-.main_2.transition {
-    transition: background 0.5s linear;
-  }
 
 .espacio_de_silencio{
     background-color: #ffffff;
