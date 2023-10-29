@@ -11,7 +11,6 @@ for (let el of imagenes) {
     main2.style.background = backgroundStyle;
     main2.style.backgroundSize = "cover";
     main2.style.backgroundPosition = "center";
-    //main2.css({"background": backgroundStyle});
     e.target.setAttribute("src",img2);
     var paisLugar=document.querySelector("div.descripcion h4");
     var nombreLugar=document.querySelector("div.descripcion h1");
