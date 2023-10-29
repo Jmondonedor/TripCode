@@ -20,27 +20,27 @@ for (let el of imagenes) {
       case "images/brasil.jpg":
         paisLugar.innerText="Brasil";
         nombreLugar.innerText="CRISTO REDENTOR";
-        descLugar.innerText="";
+        descLugar.innerHTML="<br>El Cristo Redentor es una icónica estatua de Jesús en Río de Janeiro, Brasil,<br> que se alza majestuosamente en el cerro del Corcovado.<br> Es un símbolo emblemático de la ciudad y del cristianismo, con vistas panorámicas impresionantes de la región.";
         break;
       case "images/norruega.jpg":
         paisLugar.innerText="Noruega";
         nombreLugar.innerText="LOFOTEN ISLANDS";
-        descLugar.innerText="";
+        descLugar.innerHTML="<br>Las Islas Lofoten en Noruega son famosas por su belleza natural,<br> con montañas escarpadas, playas de arena blanca y encantadores pueblos pesqueros.<br> Es un destino esencial para amantes de la naturaleza y la aventura en el Ártico.";
         break;
       case "images/rusia.jpg":
         paisLugar.innerText="Rusia";
         nombreLugar.innerText="CATEDRAL DE SAN BASILIO";
-        descLugar.innerText="";
+        descLugar.innerHTML="<br>La Catedral de San Basilio es un emblemático edificio en la Plaza Roja de Moscú,<br> famosa por sus coloridas cúpulas en forma de cebolla y su rica historia.<br> Un sitio inolvidable para los amantes de la arquitectura y la cultura rusa.";
         break;
       case "images/grecia.jpg":
         paisLugar.innerText="Grecia";
         nombreLugar.innerText="SANTORINI";
-        descLugar.innerText="";
+        descLugar.innerHTML="<br>Santorini es una impresionante isla griega en el mar Egeo,<br> conocida por sus icónicas casas blancas con techos azules y sus espectaculares vistas al mar.<br> Un destino obligatorio para los amantes de la belleza escénica y la cultura mediterránea.";
         break;
       case "images/japon.jpg":
         paisLugar.innerText="Japon";
         nombreLugar.innerText="SANNENZAKA";
-        descLugar.innerText="";
+        descLugar.innerHTML="<br>Sannenzaka es una encantadora calle empedrada en Kioto, Japón,<br> famosa por su arquitectura tradicional y su ambiente histórico.<br> Un lugar imprescindible para quienes buscan la auténtica cultura japonesa.";
         break;
       case "images/machu.jpg":
         paisLugar.innerText="Peru";
